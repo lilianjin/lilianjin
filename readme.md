@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on home.
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about `JS`, `Typescript`, `PHP` problem.
-- 📫 Email: `bill.li@ofcold.com` Wechat: `billli-id`.
+- 📫 Email: `ryan@ofcold.com` Wechat: `ryan_develop`.
 - ⚡ I like photography, music, code.. and cycling.
